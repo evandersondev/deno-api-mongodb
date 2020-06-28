@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "start": {
+      "file": "index.js",
+      "deno_options": {
+        "allow-all": true,
+        "reload": true,
+        "unstable": true
+      }
+    }
+  }
+}
